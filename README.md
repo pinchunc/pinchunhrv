@@ -1,1 +1,2 @@
 The code pinchunhrv.m analyzes HRV based on the ‘R-R intervals' (txt file here) and does the calculation in different sleep stages (.mat file here).
+Please cite this paper for reference: Pin-Chun Chen, Lauren N. Whitehurst, Mohsen Naji, Sara C. Mednick; Autonomic Activity during a Daytime Nap Facilitates Working Memory Improvement. J Cogn Neurosci 2020; 32 (10): 1963–1974. doi: https://doi.org/10.1162/jocn_a_01588
